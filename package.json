@@ -1,0 +1,3 @@
+{
+  "name":"case15-telecom-management","version":"1.0.0","private":true,"description":"CASE 15 Telecommunications Management System — PostgreSQL + Express + Kazakh UI","scripts":{"start":"node server.js","dev":"node --watch server.js"},"dependencies":{"dotenv":"^16.4.5","express":"^4.21.2","pg":"^8.13.1"},"engines":{"node":">=18"}
+}
